@@ -8,4 +8,5 @@ Componentes:
 - API de autenticación
 - API de apuestas
 - API de estadísticas
+- Lógica de negocio
 - Conexión a la base de datos
